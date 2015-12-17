@@ -1,0 +1,2 @@
+	../src/nautilus-open-atom.c \
+	../nautilus-open-atom.schemas.in

@@ -1,0 +1,6 @@
+General
+=======
+- Get Proper Startup Notification. Currently, imported libeel helpers
+  are used to launch the atom. The GAppInfo created with
+  g_desktop_app_info_new() which could be used for launching the atom
+  can not handle any extra argvs.

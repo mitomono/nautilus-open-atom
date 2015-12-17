@@ -1,0 +1,38 @@
+# Arabic translations for nautilus-open-atom package.
+# Copyright (C) 2015 THE nautilus-open-atom'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the nautilus-open-atom package.
+# Adrián Lara Roldán <mitomono@gmail.com>, 2015.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: nautilus-open-atom 0.21\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-12-16 21:34+0100\n"
+"PO-Revision-Date: 2015-12-17 00:03+0100\n"
+"Last-Translator: Adrián Lara Roldán <mitomono@gmail.com>\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+
+#: src/nautilus-open-atom.c:250 src/nautilus-open-atom.c:264
+msgid "Open in A_tom"
+msgstr "افتح في A_tom"
+
+#: src/nautilus-open-atom.c:253
+msgid "Open the currently selected folder in a atom"
+msgstr "افتح المجلد المحدّد حاليا في atom"
+
+#: src/nautilus-open-atom.c:255 src/nautilus-open-atom.c:265
+msgid "Open the currently open folder in a atom"
+msgstr "فتح المجلد المفتوح حاليا في atom"
+
+#: src/nautilus-open-atom.c:261
+msgid "Open A_tom"
+msgstr "افتح A_tom"
+
+#: src/nautilus-open-atom.c:262
+msgid "Open a atom"
+msgstr "فتح في atom"
