@@ -36,4 +36,4 @@ msgstr "Abre A_tom"
 
 #: src/nautilus-open-atom.c:262
 msgid "Open a atom"
-msgstr "Abrir un atom"
+msgstr "Abrir en atom"
