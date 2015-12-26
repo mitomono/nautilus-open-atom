@@ -19,20 +19,20 @@ msgstr ""
 
 #: src/nautilus-open-atom.c:250 src/nautilus-open-atom.c:264
 msgid "Open in A_tom"
-msgstr ""
+msgstr "Ouvrir dans A_tom"
 
 #: src/nautilus-open-atom.c:253
 msgid "Open the currently selected folder in a atom"
-msgstr ""
+msgstr "Ouvrez le dossier actuellement sélectionné dans un atom"
 
 #: src/nautilus-open-atom.c:255 src/nautilus-open-atom.c:265
 msgid "Open the currently open folder in a atom"
-msgstr ""
+msgstr "Ouvrez le dossier actuellement ouvert dans un atom"
 
 #: src/nautilus-open-atom.c:261
 msgid "Open A_tom"
-msgstr ""
+msgstr "Oubrir A_tom"
 
 #: src/nautilus-open-atom.c:262
 msgid "Open a atom"
-msgstr ""
+msgstr "Ouvrir dans atom"

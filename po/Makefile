@@ -35,7 +35,7 @@ datarootdir = ${prefix}/share
 libdir = ${exec_prefix}/lib
 localedir = ${datarootdir}/locale
 subdir = po
-install_sh = ${SHELL} '/home/adri/Escritorio/nautilus-open-atom-master (copia)/install-sh'
+install_sh = ${SHELL} '/home/adri/Escritorio/nautilus-open-atom-master (copia) (copia)/install-sh'
 # Automake >= 1.8 provides $(MKDIR_P).
 # Until it can be supposed, use the safe fallback:
 mkdir_p = $(install_sh) -d

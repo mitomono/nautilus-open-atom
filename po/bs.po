@@ -19,20 +19,20 @@ msgstr ""
 
 #: src/nautilus-open-atom.c:250 src/nautilus-open-atom.c:264
 msgid "Open in A_tom"
-msgstr "Otvori u K_onzoli"
+msgstr "Otvori u A_tom"
 
 #: src/nautilus-open-atom.c:253
 msgid "Open the currently selected folder in a atom"
-msgstr "Otvori  trenutno izabrani folder u konzoli"
+msgstr "Otvori  trenutno izabrani folder u atom"
 
 #: src/nautilus-open-atom.c:255 src/nautilus-open-atom.c:265
 msgid "Open the currently open folder in a atom"
-msgstr "Otvori  trenutno otvoreni folder u konzoli"
+msgstr "Otvori  trenutno otvoreni folder u atom"
 
 #: src/nautilus-open-atom.c:261
 msgid "Open A_tom"
-msgstr "Otvori K_onzoli"
+msgstr "Otvori A_tom"
 
 #: src/nautilus-open-atom.c:262
 msgid "Open a atom"
-msgstr "Otvori konzolu"
+msgstr "Otvori atom"
